@@ -202,7 +202,7 @@ Beantworte die Fragen auf Deutsch:
 
 ## 🔄 Navigation
 
-- ⬅️ Previous: [**Day 3**](2026-04-30-day-03.md) — Trennbare & untrennbare Verben | Lebensmittel & Kochen
+- ⬅️ Previous: [**Day 3**](day-03.md) — Trennbare & untrennbare Verben | Lebensmittel & Kochen
 - ➡️ Next: **Day 5** — Week 1 Review + Wechselpräpositionen | Mixed Review
 
 ---

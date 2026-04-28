@@ -191,7 +191,7 @@ Beantworte die Fragen auf Deutsch:
 
 ## 🔄 Navigation
 
-- ⬅️ Previous: [**Day 1**](2026-04-28-day-01.md) — Präsens: Regular & Irregular Verbs | Tagesablauf
+- ⬅️ Previous: [**Day 1**](day-01.md) — Präsens: Regular & Irregular Verbs | Tagesablauf
 - ➡️ Next: **Day 3** — Trennbare & untrennbare Verben | Lebensmittel & Kochen
 
 ---

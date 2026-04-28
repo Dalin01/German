@@ -192,7 +192,7 @@ Beantworte die Fragen auf Deutsch:
 
 ## 🔄 Navigation
 
-- ⬅️ Previous: [**Day 2**](2026-04-29-day-02.md) — Perfekt vs. Präteritum | Haushalt & Wohnung
+- ⬅️ Previous: [**Day 2**](day-02.md) — Perfekt vs. Präteritum | Haushalt & Wohnung
 - ➡️ Next: **Day 4** — Dativ & Akkusativ review | Einkaufen & Geschäfte
 
 ---
