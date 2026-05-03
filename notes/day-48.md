@@ -1,4 +1,4 @@
-# 2026-07-02 — Day 48 / 60
+# Day 48 / 60
 
 > **Week 10** | **Phase 3** | Advanced B2 & Integration
 > ⏱ 60 minutes | Level: B2

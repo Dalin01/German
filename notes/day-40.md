@@ -1,4 +1,4 @@
-# 2026-06-20 — Day 40 / 60
+# Day 40 / 60
 
 > **Week 8** | **Phase 2** | Core B2
 > ⏱ 60 minutes | Level: B1/B2

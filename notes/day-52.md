@@ -1,4 +1,4 @@
-# 2026-07-08 — Day 52 / 60
+# Day 52 / 60
 
 > **Week 11** | **Phase 3** | Exam Preparation & Text Types
 > ⏱ 60 minutes | Level: B2

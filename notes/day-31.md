@@ -1,4 +1,4 @@
-# 2026-06-09 — Day 31 / 60
+# Day 31 / 60
 
 > **Week 7** | **Phase 2** | Core B2
 > ⏱ 60 minutes | Level: B1/B2

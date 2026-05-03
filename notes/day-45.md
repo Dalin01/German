@@ -1,4 +1,4 @@
-# 2026-06-27 — Day 45 / 60
+# Day 45 / 60
 
 > **Week 9** | **Phase 3** | Advanced B2 & Integration — 🔁 REVIEW DAY
 > ⏱ 60 minutes | Level: B2

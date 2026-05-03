@@ -1,4 +1,4 @@
-# 2026-05-02 — Day 5 / 60
+# Day 5 / 60
 
 > **Week 1** | **Phase 1** | B1 Consolidation & B2 Bridge  
 > ⏱ 60 minutes | Level: B1/B2 | **⭐ WEEK 1 REVIEW DAY ⭐**

@@ -1,4 +1,4 @@
-# 2026-07-17 — Day 59 / 60
+# Day 59 / 60
 
 > **Week 12** | **Phase 3** | Mastery & Self-Assessment
 > ⏱ 60 minutes | Level: B2

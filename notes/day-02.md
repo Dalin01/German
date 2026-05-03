@@ -1,4 +1,4 @@
-# 2026-04-29 — Day 2 / 60
+# Day 2 / 60
 
 > **Week 1** | **Phase 1** | B1 Consolidation & B2 Bridge
 > ⏱ 60 minutes | Level: B1/B2

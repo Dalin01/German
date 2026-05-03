@@ -1,4 +1,4 @@
-# 2026-07-04 — Day 50 / 60
+# Day 50 / 60
 
 > **Week 10** | **Phase 3** | Advanced B2 & Integration — 🔁 REVIEW DAY
 > ⏱ 60 minutes | Level: B2

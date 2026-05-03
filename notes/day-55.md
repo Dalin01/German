@@ -1,4 +1,4 @@
-# 2026-07-11 — Day 55 / 60
+# Day 55 / 60
 
 > **Week 11** | **Phase 3** | Exam Preparation & Text Types — 🔁 REVIEW DAY
 > ⏱ 60 minutes | Level: B2
